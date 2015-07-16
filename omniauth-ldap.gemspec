@@ -11,7 +11,7 @@ Gem::Specification.new do |gem|
 
   gem.add_runtime_dependency     'omniauth', '~> 1.0'
   gem.add_runtime_dependency     'net-ldap', '~> 0.11'
-  gem.add_runtime_dependency     'pyu-ruby-sasl', '~> 0.0.3.3'
+  gem.add_runtime_dependency     'pyu-ruby-sasl', '~> 0.0.3.2'
   gem.add_runtime_dependency     'rubyntlm', '~> 0.3'
   gem.add_development_dependency 'rspec', '~> 2.7'
   gem.add_development_dependency 'simplecov'
