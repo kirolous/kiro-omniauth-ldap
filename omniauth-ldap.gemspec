@@ -2,7 +2,7 @@
 require File.expand_path('../lib/omniauth-ldap/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["Ping Yu"]
+  gem.authors       = ["Ping Yu","Kirolous Frouk"]
   gem.email         = ["ping@intridea.com"]
   gem.description   = %q{A LDAP strategy for OmniAuth.}
   gem.summary       = %q{A LDAP strategy for OmniAuth.}
